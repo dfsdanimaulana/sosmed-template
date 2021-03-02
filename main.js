@@ -1,0 +1,1 @@
+const profile_dashboard = $('.profile-dashboard').html();
